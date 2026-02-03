@@ -1,0 +1,208 @@
+2026-02-03 10:49:06,763 - Device_1 - Score 25
+2026-02-03 10:49:06,779 - Device_2 - Score 25
+2026-02-03 10:49:07,775 - Device_1 - Score 45
+2026-02-03 10:49:08,786 - Device_1 - Score 45
+2026-02-03 10:49:10,791 - Device_1 - Score 55
+2026-02-03 10:49:10,803 - Device_2 - Score 50
+2026-02-03 10:49:11,800 - Device_2 - Score 50
+2026-02-03 10:49:12,806 - Device_1 - Score 25
+2026-02-03 10:49:13,819 - Device_3 - Score 55
+2026-02-03 10:49:13,827 - Device_2 - Score 55
+2026-02-03 10:49:14,831 - Device_2 - Score 55
+2026-02-03 10:49:14,844 - Device_1 - Score 45
+2026-02-03 10:49:15,828 - Device_3 - Score 50
+2026-02-03 10:49:16,833 - Device_3 - Score 25
+2026-02-03 10:49:17,847 - Device_1 - Score 25
+2026-02-03 10:50:22,373 - Device_3 - Score 25
+2026-02-03 10:50:24,382 - Device_2 - Score 55
+2026-02-03 10:50:26,386 - Device_2 - Score 50
+2026-02-03 10:50:26,402 - Device_3 - Score 55
+2026-02-03 10:50:27,395 - Device_3 - Score 55
+2026-02-03 10:50:27,407 - Device_1 - Score 50
+2026-02-03 10:50:28,407 - Device_3 - Score 55
+2026-02-03 10:50:30,422 - Device_3 - Score 50
+2026-02-03 21:04:45,262 - Device_1 - Score 55Warning sent
+2026-02-03 21:04:46,280 - Device_3 - Score 45Warning sent
+2026-02-03 21:04:46,290 - Device_1 - Score 50Warning sent
+2026-02-03 21:04:47,278 - Device_3 - Score 55Warning sent
+2026-02-03 21:04:47,286 - Device_1 - Score 25
+2026-02-03 21:04:49,284 - Device_3 - Score 45Warning sent
+2026-02-03 21:04:49,284 - Device_1 - Score 55Warning sent
+2026-02-03 21:04:50,300 - Device_3 - Score 25
+2026-02-03 21:04:50,311 - Device_1 - Score 45Warning sent
+2026-02-03 21:04:51,314 - Device_3 - Score 55Warning sent
+2026-02-03 21:04:51,327 - Device_1 - Score 55Warning sent
+2026-02-03 21:06:23,793 - Device_2 - Score 25CRITICAL sent
+2026-02-03 21:06:24,780 - Device_3 - Score 45Warning sent
+2026-02-03 21:07:55,975 - Device_2 - Score 45 Warning sent
+2026-02-03 21:07:58,992 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 21:07:59,002 - Device_2 - Score 45 Warning sent
+2026-02-03 21:08:01,013 - Device_2 - Score 45 Warning sent
+2026-02-03 21:08:01,990 - Device_1 - Score 50 Warning sent
+2026-02-03 21:08:02,035 - Device_3 - Score 45 Warning sent
+2026-02-03 22:00:46,847 - Device_1 - Score 55 Warning sent
+2026-02-03 22:00:46,863 - Device_3 - Score 55 Warning sent
+2026-02-03 22:00:47,898 - Device_1 - Score 45 Warning sent
+2026-02-03 22:00:49,877 - Device_2 - Score 45 Warning sent
+2026-02-03 22:00:49,908 - Device_1 - Score 45 Warning sent
+2026-02-03 22:00:50,875 - Device_3 - Score 45 Warning sent
+2026-02-03 22:00:50,936 - Device_1 - Score 45 Warning sent
+2026-02-03 22:00:52,958 - Device_1 - Score 55 Warning sent
+2026-02-03 22:00:53,894 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:00:54,903 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:00:54,928 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:00:55,984 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:00:56,923 - Device_2 - Score 45 Warning sent
+2026-02-03 22:00:56,931 - Device_3 - Score 45 Warning sent
+2026-02-03 22:00:58,014 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:00:58,939 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:01:00,961 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:01,991 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:01:04,074 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:04,974 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:06,988 - Device_3 - Score 55 Warning sent
+2026-02-03 22:01:06,995 - Device_2 - Score 55 Warning sent
+2026-02-03 22:01:08,128 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:09,154 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:11,026 - Device_3 - Score 55 Warning sent
+2026-02-03 22:01:11,063 - Device_2 - Score 55 Warning sent
+2026-02-03 22:01:11,182 - Device_1 - Score 55 Warning sent
+2026-02-03 22:01:13,037 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:14,206 - Device_1 - Score 55 Warning sent
+2026-02-03 22:01:15,046 - Device_3 - Score 55 Warning sent
+2026-02-03 22:01:15,233 - Device_1 - Score 55 Warning sent
+2026-02-03 22:01:16,092 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:17,072 - Device_3 - Score 50 Warning sent
+2026-02-03 22:01:20,126 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:01:20,175 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:20,345 - Device_1 - Score 55 Warning sent
+2026-02-03 22:01:22,197 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:22,352 - Device_1 - Score 45 Warning sent
+2026-02-03 22:01:24,365 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:25,237 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:26,373 - Device_1 - Score 50 Warning sent
+2026-02-03 22:01:27,187 - Device_3 - Score 50 Warning sent
+2026-02-03 22:01:27,266 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:29,229 - Device_3 - Score 45 Warning sent
+2026-02-03 22:01:29,324 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:01:30,243 - Device_3 - Score 45 Warning sent
+2026-02-03 22:01:30,352 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:30,400 - Device_1 - Score 45 Warning sent
+2026-02-03 22:01:32,253 - Device_3 - Score 55 Warning sent
+2026-02-03 22:01:32,393 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:35,451 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:35,459 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:37,299 - Device_3 - Score 50 Warning sent
+2026-02-03 22:01:39,483 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:39,490 - Device_2 - Score 55 Warning sent
+2026-02-03 22:01:40,344 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:01:42,366 - Device_3 - Score 55 Warning sent
+2026-02-03 22:01:44,534 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:45,548 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:46,561 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:01:47,572 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:50,508 - Device_3 - Score 45 Warning sent
+2026-02-03 22:01:51,621 - Device_2 - Score 45 Warning sent
+2026-02-03 22:01:52,532 - Device_3 - Score 45 Warning sent
+2026-02-03 22:01:52,625 - Device_2 - Score 50 Warning sent
+2026-02-03 22:01:53,542 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:01:53,652 - Device_2 - Score 55 Warning sent
+2026-02-03 22:01:54,664 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:01:55,583 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:01:56,613 - Device_3 - Score 55 Warning sent
+2026-02-03 22:01:56,644 - Device_1 - Score 55 Warning sent
+2026-02-03 22:01:57,651 - Device_1 - Score 45 Warning sent
+2026-02-03 22:01:58,634 - Device_3 - Score 50 Warning sent
+2026-02-03 22:01:58,666 - Device_1 - Score 55 Warning sent
+2026-02-03 22:01:59,694 - Device_1 - Score 55 Warning sent
+2026-02-03 22:02:00,644 - Device_3 - Score 50 Warning sent
+2026-02-03 22:02:01,732 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:01,770 - Device_2 - Score 45 Warning sent
+2026-02-03 22:02:02,654 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:03,742 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:02:06,696 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:07,785 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:02:08,712 - Device_3 - Score 50 Warning sent
+2026-02-03 22:02:08,804 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:02:08,811 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:09,828 - Device_1 - Score 55 Warning sent
+2026-02-03 22:02:10,725 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:11,734 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:12,761 - Device_3 - Score 55 Warning sent
+2026-02-03 22:02:12,857 - Device_2 - Score 45 Warning sent
+2026-02-03 22:02:12,863 - Device_1 - Score 55 Warning sent
+2026-02-03 22:02:14,787 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:14,880 - Device_1 - Score 55 Warning sent
+2026-02-03 22:02:14,888 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:02:16,819 - Device_3 - Score 55 Warning sent
+2026-02-03 22:02:18,954 - Device_2 - Score 55 Warning sent
+2026-02-03 22:02:19,842 - Device_3 - Score 55 Warning sent
+2026-02-03 22:02:20,853 - Device_3 - Score 55 Warning sent
+2026-02-03 22:02:22,002 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:22,865 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:02:23,005 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:23,876 - Device_3 - Score 50 Warning sent
+2026-02-03 22:02:24,031 - Device_2 - Score 50 Warning sent
+2026-02-03 22:02:25,901 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:02:27,050 - Device_1 - Score 50 Warning sent
+2026-02-03 22:02:27,910 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:02:29,080 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:31,088 - Device_2 - Score 50 Warning sent
+2026-02-03 22:02:32,102 - Device_1 - Score 50 Warning sent
+2026-02-03 22:02:32,977 - Device_3 - Score 50 Warning sent
+2026-02-03 22:02:33,104 - Device_2 - Score 55 Warning sent
+2026-02-03 22:02:34,112 - Device_1 - Score 50 Warning sent
+2026-02-03 22:02:36,019 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:37,155 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:02:40,068 - Device_3 - Score 50 Warning sent
+2026-02-03 22:02:42,176 - Device_2 - Score 45 Warning sent
+2026-02-03 22:02:44,218 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:45,242 - Device_1 - Score 45 Warning sent
+2026-02-03 22:02:46,169 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:48,289 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:02:50,199 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:50,309 - Device_2 - Score 45 Warning sent
+2026-02-03 22:02:52,228 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:52,322 - Device_1 - Score 50 Warning sent
+2026-02-03 22:02:56,267 - Device_3 - Score 45 Warning sent
+2026-02-03 22:02:57,375 - Device_1 - Score 50 Warning sent
+2026-02-03 22:02:58,292 - Device_3 - Score 55 Warning sent
+2026-02-03 22:02:58,386 - Device_2 - Score 50 Warning sent
+2026-02-03 22:02:59,401 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:03:00,324 - Device_3 - Score 50 Warning sent
+2026-02-03 22:03:08,469 - Device_3 - Score 50 Warning sent
+2026-02-03 22:03:08,508 - Device_2 - Score 25 CRITICAL sent
+2026-02-03 22:03:10,502 - Device_1 - Score 55 Warning sent
+2026-02-03 22:03:11,535 - Device_2 - Score 55 Warning sent
+2026-02-03 22:03:12,528 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:03:12,567 - Device_1 - Score 50 Warning sent
+2026-02-03 22:03:14,560 - Device_3 - Score 55 Warning sent
+2026-02-03 22:03:14,599 - Device_2 - Score 50 Warning sent
+2026-02-03 22:03:16,759 - Device_2 - Score 55 Warning sent
+2026-02-03 22:03:16,768 - Device_1 - Score 55 Warning sent
+2026-02-03 22:03:18,585 - Device_3 - Score 55 Warning sent
+2026-02-03 22:03:19,615 - Device_1 - Score 55 Warning sent
+2026-02-03 22:03:20,615 - Device_3 - Score 45 Warning sent
+2026-02-03 22:03:21,627 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:03:21,665 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:03:22,624 - Device_2 - Score 50 Warning sent
+2026-02-03 22:03:22,660 - Device_3 - Score 55 Warning sent
+2026-02-03 22:03:22,667 - Device_1 - Score 55 Warning sent
+2026-02-03 22:03:23,653 - Device_1 - Score 25 CRITICAL sent
+2026-02-03 22:03:26,662 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:03:28,712 - Device_1 - Score 50 Warning sent
+2026-02-03 22:03:29,776 - Device_1 - Score 45 Warning sent
+2026-02-03 22:03:30,759 - Device_3 - Score 55 Warning sent
+2026-02-03 22:03:30,765 - Device_1 - Score 45 Warning sent
+2026-02-03 22:03:32,775 - Device_3 - Score 55 Warning sent
+2026-02-03 22:03:32,823 - Device_1 - Score 45 Warning sent
+2026-02-03 22:03:33,781 - Device_3 - Score 50 Warning sent
+2026-02-03 22:03:34,806 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:03:37,847 - Device_1 - Score 45 Warning sent
+2026-02-03 22:03:37,854 - Device_3 - Score 55 Warning sent
+2026-02-03 22:03:40,880 - Device_2 - Score 55 Warning sent
+2026-02-03 22:03:40,918 - Device_3 - Score 25 CRITICAL sent
+2026-02-03 22:03:41,894 - Device_1 - Score 45 Warning sent
+2026-02-03 22:03:41,930 - Device_2 - Score 45 Warning sent
+2026-02-03 22:03:42,909 - Device_1 - Score 45 Warning sent
+2026-02-03 22:03:46,945 - Device_3 - Score 25 CRITICAL sent
