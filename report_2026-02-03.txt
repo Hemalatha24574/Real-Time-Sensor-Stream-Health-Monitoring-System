@@ -1,0 +1,11 @@
+
+DEVICE HEALTH REPORT - 2026-02-03
+
+Total Data Packets: 450
+Critical Devices Count: 48
+Average Health Score: 63.61
+
+Device Activity:
+Device_1 → 153 packets
+Device_2 → 149 packets
+Device_3 → 148 packets

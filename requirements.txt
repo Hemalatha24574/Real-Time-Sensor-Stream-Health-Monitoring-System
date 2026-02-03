@@ -1,0 +1,5 @@
+# Core Python libraries are built-in:
+# threading, queue, sqlite3, datetime, json, logging, random
+
+# Optional dependency (only if PDF reports are enabled)
+reportlab>=4.0.0
