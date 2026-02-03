@@ -1,5 +1,3 @@
-# Real-Time-Sensor-Stream-Health-Monitoring-System
-
 # 🔧 Real-Time Sensor Data Stream Processor & Device Health Monitoring System
 
 ## 📌 Overview
